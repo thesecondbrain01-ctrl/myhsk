@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "packageCode": "H51001",
+  "audioUrl": "https://hsk-papers-audio-test.web.app/audio/H51001.mp3",
+  "durationSeconds": 1815.928,
+  "durationVerified": true,
+  "timestampStatus": "calibrated-from-source-audio",
+  "note": "Part 1 ends at 726.858 seconds, where the source audio enters a 16.336-second silence (726.858–743.194) before Part 2 resumes. This transition is aligned with the listening question ranges: Part 1 questions 1–20; Part 2 questions 21–45.",
+  "parts": [
+    {
+      "part": 1,
+      "title": "第一部分",
+      "questionRange": [
+        1,
+        20
+      ],
+      "startSeconds": 0,
+      "endSeconds": 726.858,
+      "status": "calibrated-from-audio-silence"
+    },
+    {
+      "part": 2,
+      "title": "第二部分",
+      "questionRange": [
+        21,
+        45
+      ],
+      "startSeconds": 726.858,
+      "endSeconds": 1815.928,
+      "status": "calibrated-from-audio-silence"
+    }
+  ]
+}
